@@ -39,9 +39,7 @@ makedocs(;
 	]
 )
 
-#=
 deploydocs(;
     repo="github.com/hsugawa8651/memoProgClass2021w.jl",
 )
-=#
 
