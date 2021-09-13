@@ -19,6 +19,7 @@ jobs:
           PYTHON: ""
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DOCUMENTER_KEY: ${{ secrets.DOCUMENTER_KEY }}
+          GITHUB_REF: "main"
   note:
     name: "Documentation deployment note."
     runs-on: ubuntu-latest
