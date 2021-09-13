@@ -3,7 +3,7 @@ CurrentModule = memoProgClass2021w
 ```
 # 2021年度版
 
-この内容は，2020年度後期の授業（2021年10月から2022年1月）向けに公開するものです．
+この内容は，2021年度後期の授業（2021年10月から2022年1月）向けに公開するものです．
 - 実行結果は，Julia 1.6.2 （→ [Julia v1.6 Release Notes](https://docs.julialang.org/en/v1/NEWS/#Julia-v1.6-Release-Notes) ）により出力されたものです．
 
 ## Preface
