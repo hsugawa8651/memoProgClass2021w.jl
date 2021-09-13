@@ -1,9 +1,5 @@
-using Documenter
 
-# using memoProgClass2021w
-module memoProgClass2021w
-end
-
+using memoProgClass2021w
 using Documenter
 
 makedocs(;
