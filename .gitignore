@@ -38,7 +38,8 @@ build-iPhoneSimulator/
 /_yardoc/
 /doc/
 /rdoc/
-/docs/build
+/docs/build/
+/docs/site/
 /docs/src_excluded
 
 
