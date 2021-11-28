@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-10-19T17:58:38.415781</dc:date>
+    <dc:date>2021-11-28T09:33:55.888878</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.4.3, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -30,7 +30,7 @@ z
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path clip-path="url(#pbbbfca37b2)" d="M 166.306909 98.810182 
+    <path clip-path="url(#p965056e1d9)" d="M 166.306909 98.810182 
 L 166.199144 97.86199 
 L 165.876603 96.927467 
 L 165.291678 95.951876 
@@ -264,7 +264,7 @@ L 166.306909 98.810182
   </g>
   <g id="axes_2">
    <g id="line2d_2">
-    <path clip-path="url(#p4f6ecb2f02)" d="M 276.898909 98.810182 
+    <path clip-path="url(#p8caa07c44e)" d="M 276.898909 98.810182 
 L 276.792792 98.226718 
 L 276.475056 97.651902 
 L 275.867002 97.026239 
@@ -579,7 +579,7 @@ L 276.898909 98.810182
   </g>
   <g id="axes_3">
    <g id="line2d_3">
-    <path clip-path="url(#p9e0d0539a3)" d="M 387.490909 98.810182 
+    <path clip-path="url(#p231dadde3c)" d="M 387.490909 98.810182 
 L 387.376119 98.372687 
 L 387.032429 97.942296 
 L 386.344934 97.458533 
@@ -960,7 +960,7 @@ L 387.490909 98.810182
   </g>
   <g id="axes_4">
    <g id="line2d_4">
-    <path clip-path="url(#p8c041c2f25)" d="M 166.306909 236.421818 
+    <path clip-path="url(#p780dc0c37e)" d="M 166.306909 236.421818 
 L 166.1985 235.692502 
 L 165.873959 234.974074 
 L 165.269819 234.209254 
@@ -1235,7 +1235,7 @@ L 166.306909 236.421818
   </g>
   <g id="axes_5">
    <g id="line2d_5">
-    <path clip-path="url(#p91845bd3bd)" d="M 276.898909 236.421818 
+    <path clip-path="url(#pb986194ce7)" d="M 276.898909 236.421818 
 L 276.783292 235.911411 
 L 276.437147 235.409312 
 L 275.762044 234.856206 
@@ -1582,7 +1582,7 @@ L 276.898909 236.421818
   </g>
   <g id="axes_6">
    <g id="line2d_6">
-    <path clip-path="url(#pfef5abf390)" d="M 387.490909 236.421818 
+    <path clip-path="url(#p07e0465048)" d="M 387.490909 236.421818 
 L 387.387274 236.057146 
 L 386.990156 235.627087 
 L 386.298409 235.213918 
@@ -1995,22 +1995,22 @@ L 387.490909 236.421818
   </g>
  </g>
  <defs>
-  <clipPath id="pbbbfca37b2">
+  <clipPath id="p965056e1d9">
    <rect height="92.16" width="92.16" x="78.336" y="52.730182"/>
   </clipPath>
-  <clipPath id="p4f6ecb2f02">
+  <clipPath id="p8caa07c44e">
    <rect height="92.16" width="92.16" x="188.928" y="52.730182"/>
   </clipPath>
-  <clipPath id="p9e0d0539a3">
+  <clipPath id="p231dadde3c">
    <rect height="92.16" width="92.16" x="299.52" y="52.730182"/>
   </clipPath>
-  <clipPath id="p8c041c2f25">
+  <clipPath id="p780dc0c37e">
    <rect height="92.16" width="92.16" x="78.336" y="190.341818"/>
   </clipPath>
-  <clipPath id="p91845bd3bd">
+  <clipPath id="pb986194ce7">
    <rect height="92.16" width="92.16" x="188.928" y="190.341818"/>
   </clipPath>
-  <clipPath id="pfef5abf390">
+  <clipPath id="p07e0465048">
    <rect height="92.16" width="92.16" x="299.52" y="190.341818"/>
   </clipPath>
  </defs>
